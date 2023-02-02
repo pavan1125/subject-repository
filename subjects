@@ -4,4 +4,8 @@ public Static void main(String[]args){
  String subject_1="chemistry";
  String subject_2="bio";
  String subject_3="maths";
+
+ int chemistry[3]={40,50,60};
+ int bio[3]={10,50,60};
+ 
 }
