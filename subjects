@@ -1,0 +1,7 @@
+class main(){
+public Static void main(String[]args){
+ 
+ String subject_1="chemistry";
+ String subject_2="bio";
+ String subject_3="maths";
+}
