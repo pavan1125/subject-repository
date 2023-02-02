@@ -7,5 +7,6 @@ public Static void main(String[]args){
 
  int chemistry[3]={40,50,60};
  int bio[3]={10,50,60};
+ int maths[3]={30 ,40,60}
  
 }
